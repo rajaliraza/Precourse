@@ -38,7 +38,7 @@ function add(x, y) {
   const add=x+y;
    return add;
 }
-dd(2,5);
+add(2,5);
 
 
 function subtract(x, y) {
